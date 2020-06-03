@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Idus</string>
+    <string name="activity_title">Local Weather</string>
+
+    <string name="weather_local">Local</string>
+    <string name="weather_today">Today</string>
+    <string name="weather_tomorrow">Tomorrow</string>
+    <string name="weather_icon">WeatherIcon</string>
+
+    <string name="temperature" translatable="false">%1$d˚C</string>
+    <string name="percent" translatable="false">%1$d%%</string>
+</resources>
